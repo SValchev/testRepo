@@ -1,0 +1,12 @@
+c:\users\stanimir\documents\visual studio 2015\Projects\ITVanioIvanov\ITVanioIvanov\bin\Debug\ITVanioIvanov.exe.config
+c:\users\stanimir\documents\visual studio 2015\Projects\ITVanioIvanov\ITVanioIvanov\bin\Debug\ITVanioIvanov.exe
+c:\users\stanimir\documents\visual studio 2015\Projects\ITVanioIvanov\ITVanioIvanov\bin\Debug\ITVanioIvanov.pdb
+c:\users\stanimir\documents\visual studio 2015\Projects\ITVanioIvanov\ITVanioIvanov\obj\Debug\ITVanioIvanov.csprojResolveAssemblyReference.cache
+c:\users\stanimir\documents\visual studio 2015\Projects\ITVanioIvanov\ITVanioIvanov\obj\Debug\ITVanioIvanov.exe
+c:\users\stanimir\documents\visual studio 2015\Projects\ITVanioIvanov\ITVanioIvanov\obj\Debug\ITVanioIvanov.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\VanioIvanovTask\ITVanioIvanov\bin\Debug\ITVanioIvanov.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\VanioIvanovTask\ITVanioIvanov\obj\Debug\ITVanioIvanov.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\VanioIvanovTask\ITVanioIvanov\obj\Debug\ITVanioIvanov.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\VanioIvanovTask\ITVanioIvanov\bin\Debug\ITVanioIvanov.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\VanioIvanovTask\ITVanioIvanov\bin\Debug\ITVanioIvanov.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\VanioIvanovTask\ITVanioIvanov\obj\Debug\ITVanioIvanov.csprojResolveAssemblyReference.cache

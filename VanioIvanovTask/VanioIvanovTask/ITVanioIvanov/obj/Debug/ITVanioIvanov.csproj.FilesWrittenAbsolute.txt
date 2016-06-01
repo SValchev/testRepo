@@ -1,0 +1,4 @@
+/Users/svalchev/Desktop/VanioIvanovTask/VanioIvanovTask/ITVanioIvanov/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/svalchev/Desktop/VanioIvanovTask/VanioIvanovTask/ITVanioIvanov/obj/Debug/ITVanioIvanov.exe
+/Users/svalchev/Desktop/VanioIvanovTask/VanioIvanovTask/ITVanioIvanov/bin/Debug/ITVanioIvanov.exe.config
+/Users/svalchev/Desktop/VanioIvanovTask/VanioIvanovTask/ITVanioIvanov/bin/Debug/ITVanioIvanov.exe

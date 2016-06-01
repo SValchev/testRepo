@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ITVanioIvanov/ITVanioIvanov.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ITVanioIvanov/Program.cs">
+    <Files>
+      <File FileName="ITVanioIvanov/Program.cs" Line="23" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/svalchev/Desktop/VanioIvanovTask/VanioIvanovTask/ITVanioIvanov/Program.cs" line="20" column="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
